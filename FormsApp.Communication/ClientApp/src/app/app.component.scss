@@ -1,0 +1,13 @@
+:host {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: monospace;
+  font-size: 100px;
+}
+
+span {
+  padding: 5px;
+  min-width: 200px;
+}
